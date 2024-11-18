@@ -20,4 +20,4 @@ If you want to update suffix (i.e. content below `[MD5]`), just execute `python3
 
 ## How it work?
 
-See My [Zhihu answer](https://www.zhihu.com/question/411191287/answer/34647918511)  (in Chinese).
+See [My Zhihu answer](https://www.zhihu.com/question/411191287/answer/34647918511)  (in Chinese).

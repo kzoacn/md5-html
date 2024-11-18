@@ -10,9 +10,10 @@ This repo can generate a HTML page that show its own MD5 hash like [my homepage]
 4. `cd md5-html-main`
 5. `mkdir backup`
 6. `mv textcoll.sh ../scripts/textcoll.sh`
-7. `python3 prefix.py`
-8. `python3 suffix.py`
-9. `new_index.html` is the output
+7. `chmod +x ../scripts/textcoll.sh`
+8. `python3 prefix.py`
+9. `python3 suffix.py`
+10. `new_index.html` is the output
 
 ## Generate
 

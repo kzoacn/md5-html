@@ -13,6 +13,8 @@ This repo can generate a HTML page that show its own MD5 hash.
 
 ## Generate
 
+The total runnig time will be roughly 5 days, but after the first running, updating suffix is ~0.5 hour.
+
 If you want to update suffix (i.e. content below `[MD5]`), just execute `python3 suffix.py` again after editing `index.hml`.
 
 ## Check

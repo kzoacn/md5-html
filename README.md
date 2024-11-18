@@ -19,6 +19,8 @@ This repo can generate a HTML page that show its own MD5 hash like [my homepage]
 
 The total runnig time will be roughly 5 days on a 64 cores server, but after the first running, updating suffix is ~0.5 hour.
 
+Checkpoints are stored and loaded automaticly, so you can freely execute / stop `prefix.py`.
+
 If you want to update suffix (i.e. content below `[MD5]`), just execute `python3 suffix.py` again after editing `index.hml`.
 
 ## Check

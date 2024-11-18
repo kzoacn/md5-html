@@ -1,6 +1,6 @@
 # md5-html
 
-This repo can generate a HTML page that show its own MD5 hash.
+This repo can generate a HTML page that show its own MD5 hash like [my homepage](https://kzoacn.github.io/).
 
 ## Usage
 

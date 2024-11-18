@@ -5,10 +5,11 @@ This repo can generate a HTML page that show its own MD5 hash.
 ## Usage
 
 1. Install [HashClash](https://github.com/cr-marcstevens/hashclash/tree/master)
-2. Edit `index.html`, use placeholder `[MD5]` to specify where to show.
-3. `python3 prefix.py`
-4. `python3 suffix.py`
-5. `new_index.html` is the output
+2. Download and unzip this repo inside the folder `hashclash`
+3. Edit `index.html`, use placeholder `[MD5]` to specify where to show.
+4. `python3 prefix.py`
+5. `python3 suffix.py`
+6. `new_index.html` is the output
 
 ## Generate
 
